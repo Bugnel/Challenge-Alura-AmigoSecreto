@@ -5,4 +5,9 @@
    </p>
    ## :hammer:Funcionalidades del proyecto
 
-- `Funcionalidad 1`: Este proyecto muestra un nombre aleatorio, de varios que han sido ingresados- 
+- `Funcionalidad 1`: Este proyecto muestra un nombre aleatorio, de varios que han sido ingresados.
+  
+\## 🛠️ Abre y ejecuta el proyecto
+
+- Se tiene que descargar el proyecto para poder usarlo.*
+- Una vez descargado en el ambiente de desarrollo preferido Ejecute el HTML(En caso de tener Visual Studio code, Click en "Go live").
