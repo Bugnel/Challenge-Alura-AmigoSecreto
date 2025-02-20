@@ -9,5 +9,5 @@
   
 \## 🛠️ Abre y ejecuta el proyecto
 
-- Se tiene que descargar el proyecto para poder usarlo.*
-- Una vez descargado en el ambiente de desarrollo preferido Ejecute el HTML(En caso de tener Visual Studio code, Click en "Go live").
+- Se tiene que descargar el proyecto para poder usarlo.
+- Una vez descargado en el ambiente de desarrollo preferido ejecute el HTML(En caso de tener Visual Studio code, Click en "Go live").
